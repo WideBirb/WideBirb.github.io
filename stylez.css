@@ -1,0 +1,20 @@
+html { 
+    overflow-y: hidden; 
+    overflow-x: hidden;
+}
+
+.bg{
+    position: absolute;
+    background-image: url("ref.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    opacity: 25%;
+    z-index: -1;
+}
+
+img {
+    opacity: 70%;
+    background-color: red;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="bg"></div>
+    <img src="black.jpg" style="height: 70px; width: 1650px; transform: rotate(75deg); margin: 1950px 15px 25px 55px;" >
+    <img src="black.jpg" style="height: 90px; width: 1650px; transform: rotate(85deg); margin: 1950px -755px -1555px -1400px;" >
+    <img src="black.jpg" style="height: 60px; width: 1650px; transform: rotate(53deg); margin: 2950px -795px -1455px -450px;" >
+
+    <img src="black.jpg" style="height: 70px; width: 950px; position: fixed; transform: rotate(15deg); margin: 3500px -1995px -815px 540px;" >
+    <img src="black.jpg" style="height: 70px; width: 1500px; position: fixed; transform: rotate(0deg); margin: 3575px -0px 0px 1300px;" >
+    <img src="black.jpg" style="height: 70px; width: 750px; position: fixed; transform: rotate(-15deg); margin: 3475px -0px 0px 2750px;" >
+    <img src="black.jpg" style="height: 30px; width: 250px; position: fixed; transform: rotate(31deg); margin: 3750px -0px 0px 1150px;" >
+
+    <img src="black.jpg" style="height: 40px; width: 1250px; position: fixed; transform: rotate(2deg); margin: 3750px -0px 0px 1350px;" >
+    <img src="black.jpg" style="height: 40px; width: 250px; position: fixed; transform: rotate(35deg); margin: 3700px -0px 0px 1250px;" >
+
+    <img src="black.jpg" style="height: 54px; width: 350px; position: fixed; transform: rotate(-30deg); margin: 3700px -0px 0px 2420px;" >
+    <img src="black.jpg" style="height: 35px; width: 350px; position: fixed; transform: rotate(-30deg); margin: 3800px -0px 0px 2420px;" >
+
+    <!-- TNose -->
+    <img src="black.jpg" style="height: 45px; width: 350px; position: fixed; transform: rotate(-25deg); margin: 2750px -0px 0px 2150px;" >
+    <img src="black.jpg" style="height: 62px; width: 200px; position: fixed; transform: rotate(-70deg); margin: 2870px -0px 0px 2050px;" >
+    <img src="black.jpg" style="height: 52px; width: 75px; position: fixed; transform: rotate(-95deg); margin: 2970px -0px 0px 2100px;" >
+
+    <img src="black.jpg" style="height: 45px; width: 350px; position: fixed; transform: rotate(35deg); margin: 2750px -0px 0px 1550px;" >
+    <img src="black.jpg" style="height: 55px; width: 150px; position: fixed; transform: rotate(70deg); margin: 2900px -0px 0px 1800px;" >
+    <img src="black.jpg" style="height: 29px; width: 450px; position: fixed; transform: rotate(45deg); margin: 2830px -0px 0px 1520px;" >
+
+    <!-- Neck Shading -->
+    <img src="black.jpg" style="height: 30px; width: 1050px; position: fixed; transform: rotate(92deg); margin: 3450px -755px -1555px -950px;" >
+    <img src="black.jpg" style="height: 30px; width: 975px; position: fixed; transform: rotate(79deg); margin: 3630px -755px -1555px -750px;" >
+    <img src="black.jpg" style="height: 30px; width: 250px; position: fixed; transform: rotate(46deg); margin: 3150px -0px 0px -550px;" >
+    <img src="black.jpg" style="height: 30px; width: 250px; position: fixed; transform: rotate(46deg); margin: 3150px -0px 0px -550px;" >
+</body>
+</html>

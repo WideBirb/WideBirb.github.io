@@ -26,7 +26,6 @@
     <img src="black.jpg" style="height: 35px; width: 350px; position: fixed; transform: rotate(-30deg); margin: 3800px -0px 0px 2420px;" >
     
     <!-- TNose -->
-     <!--
     <img src="black.jpg" style="height: 45px; width: 350px; position: fixed; transform: rotate(-25deg); margin: 2750px -0px 0px 2150px;" >
     <img src="black.jpg" style="height: 62px; width: 200px; position: fixed; transform: rotate(-70deg); margin: 2870px -0px 0px 2050px;" >
     <img src="black.jpg" style="height: 52px; width: 75px; position: fixed; transform: rotate(-95deg); margin: 2970px -0px 0px 2100px;" >
@@ -36,14 +35,12 @@
     <img src="black.jpg" style="height: 29px; width: 450px; position: fixed; transform: rotate(45deg); margin: 2830px -0px 0px 1520px;" >
 
     <!-- Neck Shading -->
-     <!--
     <img src="black.jpg" style="height: 30px; width: 1050px; position: fixed; transform: rotate(92deg); margin: 3450px -755px -1555px -950px;" >
     <img src="black.jpg" style="height: 30px; width: 975px; position: fixed; transform: rotate(79deg); margin: 3630px -755px -1555px -750px;" >
     <img src="black.jpg" style="height: 30px; width: 250px; position: fixed; transform: rotate(46deg); margin: 3150px -0px 0px -550px;" >
     <img src="black.jpg" style="height: 30px; width: 250px; position: fixed; transform: rotate(46deg); margin: 3150px -0px 0px -550px;" >
 
     <!-- Right side -->
-     <!--
     <img src="black.jpg" style="height: 75px; width: 1850px; position: fixed; transform: rotate(109deg); margin: 2000px -0px 0px 3970px;" >
     <img src="black.jpg" style="height: 65px; width: 1850px; position: fixed; transform: rotate(99deg); margin: 3500px -0px 0px 3550px;" >
     <img src="black.jpg" style="height: 40px; width: 1850px; position: fixed; transform: rotate(102deg); margin: 3500px -0px 0px 3600px;" >
@@ -52,7 +49,6 @@
     <img src="black.jpg" style="height: 75px; width: 250px; position: fixed; transform: rotate(87deg); margin: 1050px -0px 0px 5040px;" >
 
     <!-- Right eye -->
-     <!--
     <img src="black.jpg" style="height: 52px; width: 750px; position: fixed; transform: rotate(-25deg); margin: 550px 0px 0px 3020px;" >
     <img src="black.jpg" style="height: 65px; width: 750px; position: fixed; transform: rotate(-25deg); margin: 430px 0px 0px 3080px;" >
     <img src="black.jpg" style="height: 57px; width: 450px; position: fixed; transform: rotate(-5deg); margin: 270px 0px 0px 3700px;" >
@@ -71,23 +67,20 @@
     <img src="black.jpg" style="height: 82px; width: 82px; position: fixed; transform: rotate(-36deg); margin: 720px 0px 0px 4325px;" >
 
     <!--Right Eye Shadow-->
-    <!--
-    <img src="black.jpg" style="height: 42px; width: 250px; position: fixed; transform: rotate(-5deg); margin: 1220px 0px 0px 2835px;">
-    <img src="black.jpg" style="height: 35px; width: 220px; position: fixed; transform: rotate(-7deg); margin: 1150px 0px 0px 2775px;">
-    <img src="black.jpg" style="height: 35px; width: 220px; position: fixed; transform: rotate(-7deg); margin: 1100px 0px 0px 2725px;">
-    <img src="black.jpg" style="height: 35px; width: 220px; position: fixed; transform: rotate(2deg); margin: 1010px 0px 0px 2655px;">
-    <img src="black.jpg" style="height: 35px; width: 190px; position: fixed; transform: rotate(11deg); margin: 980px 0px 0px 2685px;">
-    <img src="black.jpg" style="height: 55px; width: 270px; position: fixed; transform: rotate(55deg); margin: 1100px 0px 0px 2805px;">
-    <img src="black.jpg" style="height: 45px; width: 100px; position: fixed; transform: rotate(55deg); margin: 1145px 0px 0px 2725px;">
+    <img src="black.jpg" style="height: 23px; width: 220px; position: fixed; transform: rotate(-5deg); margin: 1220px 0px 0px 2835px;">
+    <img src="black.jpg" style="height: 27px; width: 220px; position: fixed; transform: rotate(-7deg); margin: 1150px 0px 0px 2775px;">
+    <img src="black.jpg" style="height: 21px; width: 220px; position: fixed; transform: rotate(-7deg); margin: 1100px 0px 0px 2725px;">
+    <img src="black.jpg" style="height: 31px; width: 220px; position: fixed; transform: rotate(2deg); margin: 1010px 0px 0px 2655px;">
+    <img src="black.jpg" style="height: 25px; width: 190px; position: fixed; transform: rotate(11deg); margin: 980px 0px 0px 2685px;">
+    <img src="black.jpg" style="height: 31px; width: 270px; position: fixed; transform: rotate(55deg); margin: 1100px 0px 0px 2805px;">
+    <img src="black.jpg" style="height: 33px; width: 100px; position: fixed; transform: rotate(55deg); margin: 1145px 0px 0px 2725px;">
 
     <!-- duct -->
-     <!--
     <img src="black.jpg" style="height: 42px; width: 340px; position: fixed; transform: rotate(-69deg); margin: 870px 0px 0px 2835px;">
     <img src="black.jpg" style="height: 42px; width: 250px; position: fixed; transform: rotate(-45deg); margin: 890px 0px 0px 2935px;">
     <img src="black.jpg" style="height: 42px; width: 250px; position: fixed; transform: rotate(25deg); margin: 1020px 0px 0px 2935px;">
 
     <!-- iris Right-->
-     <!--
     <img src="black.jpg" style="height: 75px; width: 270px; position: fixed; transform: rotate(50deg); margin: 630px 0px 0px 3305px;">
     <img src="black.jpg" style="height: 54px; width: 200px; position: fixed; transform: rotate(20deg); margin: 740px 0px 0px 3475px;">
     <img src="black.jpg" style="height: 69px; width: 300px; position: fixed; transform: rotate(-20deg); margin: 720px 0px 0px 3605px;">
@@ -96,7 +89,7 @@
 
     <img src="black.jpg" style="height: 110px; width: 110px; position: fixed; transform: rotate(45deg); margin: 470px 0px 0px 3615px;">
     
-    <!-- Right Hair
+    <!-- Right Hair -->
     <img src="black.jpg" style="height: 35px; width: 1100px; position: fixed; transform: rotate(78deg); margin: 310px 0px 0px 3775px;">
     <img src="black.jpg" style="height: 55px; width: 500px; position: fixed; transform: rotate(85deg); margin: 210px 0px 0px 4215px;">
     <img src="black.jpg" style="height: 35px; width: 1100px; position: fixed; transform: rotate(82deg); margin: 310px 0px 0px 3805px;">
@@ -125,7 +118,7 @@
     <img src="black.jpg" style="height: 43px; width: 120px; position: fixed; transform: rotate(5deg); margin: 910px 0px 0px 4780px;">
     <img src="black.jpg" style="height: 43px; width: 120px; position: fixed; transform: rotate(5deg); margin: 790px 0px 0px 4760px;">
 
-    <!--RIGHT EAR
+    <!--RIGHT EAR -->
     <img src="black.jpg" style="height: 55px; width: 1220px; position: fixed; transform: rotate(117deg); margin: 1110px 0px 0px 4850px;">
     <img src="black.jpg" style="height: 95px; width: 1220px; position: fixed; transform: rotate(109deg); margin: 110px 0px 0px 5280px;">
     <img src="black.jpg" style="height: 85px; width: 250px; position: fixed; transform: rotate(-15deg); margin: 1630px 0px 0px 4985px;">
@@ -141,7 +134,7 @@
 
     <img src="black.jpg" style="height: 75px; width: 460px; position: fixed; transform: rotate(87deg); margin: 820px 0px 0px 5110px;">
 
-    <!-- hair behind ear
+    <!-- hair behind ear -->
 
     <img src="black.jpg" style="height: 34px; width: 570px; position: fixed; transform: rotate(97deg); margin: 1950px 0px 0px 4855px;">
     <img src="black.jpg" style="height: 34px; width: 470px; position: fixed; transform: rotate(107deg); margin: 2250px 0px 0px 4865px;">
@@ -293,7 +286,79 @@
     <img src="black.jpg" style="height: 35px; width: 840px; position: fixed; transform: rotate(25deg); margin: 120px 0px 0px 700px;">
     <img src="black.jpg" style="height: 42px; width: 1140px; position: fixed; transform: rotate(17deg); margin: 80px 0px 0px 380px;">
 
+    <!--bAHAY PROGRESS-->
 
+    <img src="black.jpg" style="height: 42px; width: 1140px; position: fixed; transform: rotate(17deg); margin: 80px 0px 0px 380px;">
 
+    <!--Neck shading-->
+    <img src="black.jpg" style="height: 30px; width: 410px; position: fixed; transform: rotate(54deg); margin: 3350px -0px 0px -580px;">
+    <img src="black.jpg" style="height: 30px; width: 290px; position: fixed; transform: rotate(46deg); margin: 3550px -0px 0px -490px;">
+    <img src="black.jpg" style="height: 30px; width: 410px; position: fixed; transform: rotate(49deg); margin: 3650px -0px 0px -550px;">
+    <img src="black.jpg" style="height: 30px; width: 410px; position: fixed; transform: rotate(50deg); margin: 3800px -0px 0px -550px;">
+
+    <!--Right Hair-->
+
+    <img src="black.jpg" style="height: 42px; width: 540px; position: fixed; transform: rotate(104deg); margin: 130px 0px 0px 2050px;">
+    <img src="black.jpg" style="height: 42px; width: 540px; position: fixed; transform: rotate(123deg); margin: 130px 0px 0px 2150px;">
+    <img src="black.jpg" style="height: 31px; width: 570px; position: fixed; transform: rotate(104deg); margin: 40px 0px 0px 1990px;">
+    <img src="black.jpg" style="height: 54px; width: 570px; position: fixed; transform: rotate(92deg); margin: 40px 0px 0px 1920px;">
+
+    <img src="black.jpg" style="height: 62px; width: 830px; position: fixed; transform: rotate(-24deg); margin: 110px 0px 0px 2580px;">
+    <img src="black.jpg" style="height: 39px; width: 830px; position: fixed; transform: rotate(-31deg); margin: 55px 0px 0px 2580px;">
+    <img src="black.jpg" style="height: 39px; width: 830px; position: fixed; transform: rotate(-18deg); margin: 10px 0px 0px 2580px;">
+    <img src="black.jpg" style="height: 39px; width: 430px; position: fixed; transform: rotate(-89deg); margin: 35px 0px 0px 2430px;">
+    <img src="black.jpg" style="height: 53px; width: 220px; position: fixed; transform: rotate(-120deg); margin: 305px 0px 0px 2560px;">
+    <img src="black.jpg" style="height: 49px; width: 230px; position: fixed; transform: rotate(-65deg); margin: 30px 0px 0px 2610px;">
+
+    <img src="black.jpg" style="height: 53px; width: 220px; position: fixed; transform: rotate(-53deg); margin: 45px 0px 0px 3350px;">
+    <img src="black.jpg" style="height: 53px; width: 320px; position: fixed; transform: rotate(-53deg); margin: 45px 0px 0px 3420px;">
+    <img src="black.jpg" style="height: 49px; width: 230px; position: fixed; transform: rotate(-101deg); margin: 30px 0px 0px 4050px;">
+
+    <!--Right Eye details-->
+    <img src="black.jpg" style="height: 49px; width: 230px; position: fixed; transform: rotate(-15deg); margin: 165px 0px 0px 4050px;">
+    <img src="black.jpg" style="height: 49px; width: 230px; position: fixed; transform: rotate(-5deg); margin: 235px 0px 0px 4050px;">
+    <img src="black.jpg" style="height: 62px; width: 120px; position: fixed; transform: rotate(25deg); margin: 335px 0px 0px 4200px;">
+    <img src="black.jpg" style="height: 25px; width: 270px; position: fixed; transform: rotate(-55deg); margin: 835px 0px 0px 2940px;">
+    <img src="black.jpg" style="height: 43px; width: 210px; position: fixed; transform: rotate(-55deg); margin: 935px 0px 0px 2980px;">
+
+    <!--Right Eye Shadow-->
+    <img src="black.jpg" style="height: 35px; width: 220px; position: fixed; transform: rotate(51deg); margin: 800px 0px 0px 2285px;">
+    <img src="black.jpg" style="height: 25px; width: 150px; position: fixed; transform: rotate(51deg); margin: 700px 0px 0px 2435px;">
+    <img src="black.jpg" style="height: 21px; width: 150px; position: fixed; transform: rotate(105deg); margin: 600px 0px 0px 2415px;">
+    <img src="black.jpg" style="height: 23px; width: 150px; position: fixed; transform: rotate(121deg); margin: 500px 0px 0px 2455px;">
+    <img src="black.jpg" style="height: 25px; width: 150px; position: fixed; transform: rotate(121deg); margin: 480px 0px 0px 2365px;">
+
+    <img src="black.jpg" style="height: 31px; width: 120px; position: fixed; transform: rotate(21deg); margin: 515px 0px 0px 2405px;">
+    <img src="black.jpg" style="height: 32px; width: 100px; position: fixed; transform: rotate(21deg); margin: 445px 0px 0px 2450px;">
+    <img src="black.jpg" style="height: 24px; width: 110px; position: fixed; transform: rotate(5deg); margin: 595px 0px 0px 2385px;">
+    <img src="black.jpg" style="height: 27px; width: 130px; position: fixed; transform: rotate(15deg); margin: 675px 0px 0px 2385px;">
+    <img src="black.jpg" style="height: 25px; width: 110px; position: fixed; transform: rotate(5deg); margin: 335px 0px 0px 2445px;">
+    <img src="black.jpg" style="height: 25px; width: 120px; position: fixed; transform: rotate(5deg); margin: 385px 0px 0px 2475px;">
+    <img src="black.jpg" style="height: 19px; width: 120px; position: fixed; transform: rotate(5deg); margin: 785px 0px 0px 2285px;">
+
+    <!--Left Eye Shadow-->
+    <img src="black.jpg" style="height: 39px; width: 160px; position: fixed; transform: rotate(-11deg); margin: 735px 0px 0px 1485px;">
+    <img src="black.jpg" style="height: 34px; width: 340px; position: fixed; transform: rotate(72deg); margin: 535px 0px 0px 1415px;">
+    <img src="black.jpg" style="height: 31px; width: 370px; position: fixed; transform: rotate(65deg); margin: 495px 0px 0px 1275px;">
+    <img src="black.jpg" style="height: 32px; width: 340px; position: fixed; transform: rotate(-57deg); margin: 935px 0px 0px 1355px;">
+    <img src="black.jpg" style="height: 34px; width: 120px; position: fixed; transform: rotate(-4deg); margin: 915px 0px 0px 1435px;">
+    <img src="black.jpg" style="height: 23px; width: 120px; position: fixed; transform: rotate(-17deg); margin: 1015px 0px 0px 1375px;">
+    <img src="black.jpg" style="height: 23px; width: 120px; position: fixed; transform: rotate(-17deg); margin: 1055px 0px 0px 1355px;">
+    <img src="black.jpg" style="height: 41px; width: 120px; position: fixed; transform: rotate(-2deg); margin: 1185px 0px 0px 1290px;">
+    <img src="black.jpg" style="height: 41px; width: 90px; position: fixed; transform: rotate(-45deg); margin: 1255px 0px 0px 1210px;">
+    <img src="black.jpg" style="height: 31px; width: 120px; position: fixed; transform: rotate(-11deg); margin: 645px 0px 0px 1490px;">
+    <img src="black.jpg" style="height: 28px; width: 120px; position: fixed; transform: rotate(-12deg); margin: 585px 0px 0px 1480px;">
+    <img src="black.jpg" style="height: 21px; width: 120px; position: fixed; transform: rotate(-13deg); margin: 495px 0px 0px 1460px;">
+    <img src="black.jpg" style="height: 27px; width: 120px; position: fixed; transform: rotate(-4deg); margin: 415px 0px 0px 1420px;">
+
+        <!--RIght neck Shading-->
+    <img src="black.jpg" style="height: 30px; width: 1050px; position: fixed; transform: rotate(117deg); margin: 3450px 0px 0px 3850px;">
+    <img src="black.jpg" style="height: 24px; width: 250px; position: fixed; transform: rotate(142deg); margin: 3450px 0px 0px 4300px;">
+    <img src="black.jpg" style="height: 30px; width: 250px; position: fixed; transform: rotate(157deg); margin: 3520px 0px 0px 4300px;">
+    <img src="black.jpg" style="height: 41px; width: 270px; position: fixed; transform: rotate(157deg); margin: 3600px 0px 0px 4250px;">
+    <img src="black.jpg" style="height: 35px; width: 350px; position: fixed; transform: rotate(168deg); margin: 3700px 0px 0px 4170px;">
+    <img src="black.jpg" style="height: 35px; width: 350px; position: fixed; transform: rotate(168deg); margin: 3800px 0px 0px 4170px;">
+    
+    
 </body>
 </html>
